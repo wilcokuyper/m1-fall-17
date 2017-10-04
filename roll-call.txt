@@ -8,3 +8,5 @@ albertodall
 ronrfn
 AndrewVetoshkin
 david-edx
+JarodDTS
+NathanielCoding
