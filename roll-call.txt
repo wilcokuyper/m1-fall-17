@@ -13,3 +13,5 @@ david-edx
 JarodDTS
 NathanielCoding
 x3479
+dev20171004
+JERBEvora
