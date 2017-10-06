@@ -1,4 +1,4 @@
-kbruhnkedev275x-student // Demo entry - please do not remove. 
+dev275x-student // Demo entry - please do not remove. 
 gcondon
 sujithq
 bmccoy04
