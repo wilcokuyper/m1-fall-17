@@ -1,4 +1,5 @@
 dev275x-student // Demo entry - please do not remove. 
+devJournal
 DBCR
 gcondon
 sujithq
@@ -58,6 +59,9 @@ fofosudarko
 Dev247X-Student
 IgnEriol 
 daveh42
+StephanBrouillard
 divibisan
 shipley1770
 cro-k-ta
+jykakall
+tengjoo
