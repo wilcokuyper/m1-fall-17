@@ -87,3 +87,5 @@ ishumi
 gorge-climber
 andydrav
 mklene
+connico
+simicd
